@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation (CGU) — EH Manager
 
-**Dernière mise à jour :** 25 novembre 2026  
+**Dernière mise à jour :** 21 novembre 2026  
 **Éditeur :** BlueCode  
 **Service concerné :** EH Manager  
 **Site officiel :** https://ehmanager.bluecode3d.com  
